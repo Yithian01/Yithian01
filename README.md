@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there👨🏻‍💻👋👊
 
-<!--
-**Yithian01/Yithian01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   <p> 성결대학교 컴퓨터공학과 유진영 </p>
+   <p><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></p>
+   <br/>
+   
+</div>
+<br/>
+<div align="center">
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwlsdud10" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p> 진진의 비상식량 🍖🍖</p>
+  <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Yithian01"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
