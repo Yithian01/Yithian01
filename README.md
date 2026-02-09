@@ -1,7 +1,6 @@
 ### Hi there👨🏻‍💻👋👊
 
 <div align="center">
-   <p> 성결대학교 컴퓨터공학과 유진영 </p>
    <p><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></p>
    <br/>
    
